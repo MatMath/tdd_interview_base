@@ -13,7 +13,7 @@
 2 - Write a function that combines two lists by alternatively taking elements.
 For example: given the two lists [a, b, c] and [1, 2, 3], the function should return [a, 1, b, 2, c, 3].
 
-3 - Prob 3, Find Fibo Number Nth.
+3 - Find Fibonacci Number Nth.
 
 4 - 2 object overlapping, how to get a resulting object that exclude common item.
 Ex: So you want {a: 1 b: 2} vs {a: 4, c: 7} to return {b: 2, c: 7}. (a being common & excluded)
@@ -21,5 +21,7 @@ Ex: So you want {a: 1 b: 2} vs {a: 4, c: 7} to return {b: 2, c: 7}. (a being com
 5 - How would you design a Tic Tac Toe game? & Maybe implement part of it.
 
 6 - Fun one: (Multiply) return an array that multiply all value but itself.
+
+7 - Binary tree Sum: Determine if the tree has a root-to-leaf path such that adding up all the values along the path equals the given sum.
 
 Remember: Always start small & add edge cases.
